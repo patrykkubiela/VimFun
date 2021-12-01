@@ -74,6 +74,46 @@
         <td>Back to NORMAL mode</td>
     </tr>
     <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>Places cursor at the beginning of the line</td>
+    </tr>
+    <tr>
+        <td>$</td>
+        <td>Places cursor at the end of the line</td>
+    </tr>
+    <tr>
+        <td>)</td>
+        <td>Takes you to the start of the next sentence</td>
+    </tr>
+    <tr>
+        <td>(</td>
+        <td>Takes you to the start of the previous sentence</td>
+    </tr>
+    <tr>
+        <td>Ctrl + f</td>
+        <td>Takes you one page forward</td>
+    </tr>
+    <tr>
+        <td>Ctrl + b</td>
+        <td>Takes you one page backward</td>
+    </tr>
+    <tr>
+        <td>gg</td>
+        <td>Places cursor at the start of file</td>
+    </tr>
+    <tr>
+        <td>G</td>
+        <td>Places cursor at the end of file</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>:q</td>
         <td>Quit</td>
     </tr>
